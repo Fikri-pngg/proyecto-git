@@ -1,2 +1,3 @@
 Mi proyecto
 Aprendido git
+Idea para el proyecto
