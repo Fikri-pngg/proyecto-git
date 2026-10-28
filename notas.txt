@@ -1,4 +1,8 @@
 Mi proyecto
 Aprendido git
 Idea para el proyecto
-Estado: feliz
+<<<<<<< HEAD
+Estado: feliz y motivado
+=======
+Estado: feliz y motivado
+>>>>>>> rama-motivado
